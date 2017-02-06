@@ -13,5 +13,7 @@ int main() {
 	else if (input == 2)
 		cout << "now shes back in the atmosphere, with drops of jupiter in hair." << endl;
 	else if (input == 3)
-		cout << "common and SLAM and welcom to the JAM, common and SLAM if you wanna JAM." << endl;
+		cout << "common and SLAM and welcome to the JAM, common and SLAM if you wanna JAM." << endl;
+	else if (input == 69)
+		cout << "you think your real funny dont you." << endl;
 }                                   
